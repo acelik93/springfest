@@ -3,7 +3,7 @@ Laurea UAS PHP course project
 
 This project was created as an assignment for Laurea UAS' PHP class. The content of this project is a mock spring fest website.
 
-Installation: For local installation, just put all the files into a folder named "springfest" and place that folder into your XAMPP/MAMP's htdocs folder start your local server and go to the http://localhost:90/springfest/
+Installation: For local installation, just put all the files into a folder named "springfest" and place that folder into your XAMPP/MAMP's htdocs folder then start your local server and go to the http://localhost:90/springfest/
 
 Some screen shots from the project;
 
