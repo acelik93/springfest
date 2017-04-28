@@ -60,5 +60,6 @@ if ($conn->query($sql) === TRUE) {
 
 header("Location: ../profile.php?message='$message'"); 
 session_destroy();
+header("Location: ../index.php"); 
 $conn->close();
 ?>
